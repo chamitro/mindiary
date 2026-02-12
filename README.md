@@ -2,7 +2,7 @@
 
 A simple, private daily mood and pattern tracker. Track 8 psychological dimensions with quick daily check-ins — all in your browser, no account required.
 
-Visit --> https://chamitro.github.io/mindiary/[https://chamitro.github.io/mindiary/]
+Visit --> [https://chamitro.github.io/mindiary/](https://chamitro.github.io/mindiary/)
 
 ## Features
 
